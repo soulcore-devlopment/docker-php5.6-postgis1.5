@@ -1,0 +1,4 @@
+[base]
+exclude=postgresql*
+[updates]
+exclude=postgresql*
